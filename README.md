@@ -4,4 +4,4 @@ This is the Julia code used for the article "Resilience basins of complex system
 
 The article can also be found on the arXiv: https://arxiv.org/abs/2108.09474
 
-Some of the code is in raw Julia script (.jl) format for importing and execution on a cluster, some is in Jupyter Notebook form for better readability.
+Some of the code is in raw Julia script (.jl) format for importing and execution on a cluster, some is in Jupyter Notebook form for better readability and interactive plotting (the latter requiring certain packages and extensions).
